@@ -1,0 +1,40 @@
+name: Daily Dev Notes Sync
+
+on:
+  schedule:
+    # Jalan tiap hari jam 13:45 UTC (~20:45 WIB malam)
+    - cron: '45 13 * * *'
+  workflow_dispatch: # Bisa di-trigger manual lewat tombol Run workflow di GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  daily-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate Today's Note
+        id: note
+        run: python scripts/generate_note.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "ALPHARIET"
+          git config --global user.email "alfarian.adisaputra@gmail.com"
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "${{ steps.note.outputs.commit_msg }}"
+            git push origin main
+          fi
