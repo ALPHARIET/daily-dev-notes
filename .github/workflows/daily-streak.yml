@@ -2,9 +2,26 @@ name: Daily Dev Notes Sync
 
 on:
   schedule:
-    # Jalan tiap hari jam 13:45 UTC (~20:45 WIB malam)
-    - cron: '45 13 * * *'
-  workflow_dispatch: # Bisa di-trigger manual lewat tombol Run workflow di GitHub
+    # 6 slot waktu sepanjang hari (UTC -> WIB = UTC + 7):
+    # 01:30 UTC = ~08:30 WIB (Pagi)
+    # 04:15 UTC = ~11:15 WIB (Menjelang Siang)
+    # 07:20 UTC = ~14:20 WIB (Siang)
+    # 10:40 UTC = ~17:40 WIB (Sore)
+    # 13:25 UTC = ~20:25 WIB (Malam)
+    # 16:15 UTC = ~23:15 WIB (Larut Malam)
+    - cron: '30 1 * * *'
+    - cron: '15 4 * * *'
+    - cron: '20 7 * * *'
+    - cron: '40 10 * * *'
+    - cron: '25 13 * * *'
+    - cron: '15 16 * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force commit now regardless of slot check'
+        required: false
+        default: true
+        type: boolean
 
 permissions:
   contents: write
@@ -23,18 +40,20 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Generate Today's Note
+      - name: Generate Dev Note
         id: note
-        run: python scripts/generate_note.py
+        run: |
+          FORCE_FLAG=""
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "${{ inputs.force }}" = "true" ]; then
+            FORCE_FLAG="--force"
+          fi
+          python scripts/generate_note.py $FORCE_FLAG
 
       - name: Commit and push changes
+        if: steps.note.outputs.should_commit == 'true'
         run: |
           git config --global user.name "ALPHARIET"
           git config --global user.email "alfarian.adisaputra@gmail.com"
           git add .
-          if git diff --staged --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "${{ steps.note.outputs.commit_msg }}"
-            git push origin main
-          fi
+          git commit -m "${{ steps.note.outputs.commit_msg }}"
+          git push origin main

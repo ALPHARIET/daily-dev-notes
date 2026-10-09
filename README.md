@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-09]` [Css Has Selector Patterns](notes/2026-10-09_1308-css-has-selector-patterns.md)
 - `[2026-10-09]` [Git Pretty Log Formatting](notes/2026-10-09-git-pretty-log-formatting.md)
 <!-- RECENT_NOTES_END -->
 
