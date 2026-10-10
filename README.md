@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-10]` [Git Interactive Rebase](notes/2026-10-10_1437-git-interactive-rebase.md)
 - `[2026-10-10]` [Python Generators Memory](notes/2026-10-10_0010-python-generators-memory.md)
 - `[2026-10-09]` [Ts Satisfies Operator](notes/2026-10-09_2126-ts-satisfies-operator.md)
 - `[2026-10-09]` [Python Contextlib Patterns](notes/2026-10-09_1310-python-contextlib-patterns.md)
