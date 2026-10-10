@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-11]` [Python Asyncio Taskgroup](notes/2026-10-11_0054-python-asyncio-taskgroup.md)
 - `[2026-10-10]` [Git Worktrees Workflow](notes/2026-10-10_2051-git-worktrees-workflow.md)
 - `[2026-10-10]` [Api Idempotency Keys](notes/2026-10-10_1735-api-idempotency-keys.md)
 - `[2026-10-10]` [Git Interactive Rebase](notes/2026-10-10_1437-git-interactive-rebase.md)
