@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-11]` [Css Subgrid Card Layouts](notes/2026-10-11_2110-css-subgrid-card-layouts.md)
 - `[2026-10-11]` [Ts Discriminated Unions](notes/2026-10-11_1748-ts-discriminated-unions.md)
 - `[2026-10-11]` [Python Functools Caching](notes/2026-10-11_1442-python-functools-caching.md)
 - `[2026-10-11]` [Python Asyncio Taskgroup](notes/2026-10-11_0054-python-asyncio-taskgroup.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-10-10]` [Python Generators Memory](notes/2026-10-10_0010-python-generators-memory.md)
 - `[2026-10-09]` [Ts Satisfies Operator](notes/2026-10-09_2126-ts-satisfies-operator.md)
 - `[2026-10-09]` [Python Contextlib Patterns](notes/2026-10-09_1310-python-contextlib-patterns.md)
-- `[2026-10-09]` [Css Has Selector Patterns](notes/2026-10-09_1308-css-has-selector-patterns.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
