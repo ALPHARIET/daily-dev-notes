@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-14]` [Security Constant Time Comparison](notes/2026-10-14_0047-security-constant-time-comparison.md)
 - `[2026-10-13]` [Redis Cache Stampede Mutex](notes/2026-10-13_1514-redis-cache-stampede-mutex.md)
 - `[2026-10-13]` [Python Slots Optimization](notes/2026-10-13_0259-python-slots-optimization.md)
 - `[2026-10-12]` [Arch Outbox Pattern](notes/2026-10-12_1855-arch-outbox-pattern.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-10-11]` [Ts Discriminated Unions](notes/2026-10-11_1748-ts-discriminated-unions.md)
 - `[2026-10-11]` [Python Functools Caching](notes/2026-10-11_1442-python-functools-caching.md)
 - `[2026-10-11]` [Python Asyncio Taskgroup](notes/2026-10-11_0054-python-asyncio-taskgroup.md)
-- `[2026-10-10]` [Git Worktrees Workflow](notes/2026-10-10_2051-git-worktrees-workflow.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
