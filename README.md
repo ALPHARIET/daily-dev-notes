@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-14]` [Docker Multistage Builds](notes/2026-10-14_1955-docker-multistage-builds.md)
 - `[2026-10-14]` [Js Abortcontroller Cleanup](notes/2026-10-14_1629-js-abortcontroller-cleanup.md)
 - `[2026-10-14]` [Security Constant Time Comparison](notes/2026-10-14_0047-security-constant-time-comparison.md)
 - `[2026-10-13]` [Redis Cache Stampede Mutex](notes/2026-10-13_1514-redis-cache-stampede-mutex.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-10-12]` [Js Event Loop Microtasks](notes/2026-10-12_0110-js-event-loop-microtasks.md)
 - `[2026-10-11]` [Css Subgrid Card Layouts](notes/2026-10-11_2110-css-subgrid-card-layouts.md)
 - `[2026-10-11]` [Ts Discriminated Unions](notes/2026-10-11_1748-ts-discriminated-unions.md)
-- `[2026-10-11]` [Python Functools Caching](notes/2026-10-11_1442-python-functools-caching.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
