@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-15]` [Api Cursor Pagination](notes/2026-10-15_1317-api-cursor-pagination.md)
 - `[2026-10-15]` [Linux Io Inspection Iotop](notes/2026-10-15_0104-linux-io-inspection-iotop.md)
 - `[2026-10-14]` [Docker Multistage Builds](notes/2026-10-14_1955-docker-multistage-builds.md)
 - `[2026-10-14]` [Js Abortcontroller Cleanup](notes/2026-10-14_1629-js-abortcontroller-cleanup.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-10-12]` [Arch Outbox Pattern](notes/2026-10-12_1855-arch-outbox-pattern.md)
 - `[2026-10-12]` [Algo Sliding Window Pattern](notes/2026-10-12_1450-algo-sliding-window-pattern.md)
 - `[2026-10-12]` [Js Event Loop Microtasks](notes/2026-10-12_0110-js-event-loop-microtasks.md)
-- `[2026-10-11]` [Css Subgrid Card Layouts](notes/2026-10-11_2110-css-subgrid-card-layouts.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
