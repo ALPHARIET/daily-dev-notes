@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-15]` [Docker Layer Caching](notes/2026-10-15_1943-docker-layer-caching.md)
 - `[2026-10-15]` [Linux Ss Lsof Network Debug](notes/2026-10-15_1607-linux-ss-lsof-network-debug.md)
 - `[2026-10-15]` [Api Cursor Pagination](notes/2026-10-15_1317-api-cursor-pagination.md)
 - `[2026-10-15]` [Linux Io Inspection Iotop](notes/2026-10-15_0104-linux-io-inspection-iotop.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-10-13]` [Redis Cache Stampede Mutex](notes/2026-10-13_1514-redis-cache-stampede-mutex.md)
 - `[2026-10-13]` [Python Slots Optimization](notes/2026-10-13_0259-python-slots-optimization.md)
 - `[2026-10-12]` [Arch Outbox Pattern](notes/2026-10-12_1855-arch-outbox-pattern.md)
-- `[2026-10-12]` [Algo Sliding Window Pattern](notes/2026-10-12_1450-algo-sliding-window-pattern.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
