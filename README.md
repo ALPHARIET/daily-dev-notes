@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-17]` [Algo Sliding Window Pattern](notes/2026-10-17_1258-algo-sliding-window-pattern.md)
 - `[2026-10-17]` [Security Constant Time Comparison](notes/2026-10-17_0032-security-constant-time-comparison.md)
 - `[2026-10-16]` [Linux Ss Lsof Network Debug](notes/2026-10-16_1932-linux-ss-lsof-network-debug.md)
 - `[2026-10-16]` [Postgres Composite Indexes](notes/2026-10-16_1600-postgres-composite-indexes.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-10-15]` [Api Cursor Pagination](notes/2026-10-15_1317-api-cursor-pagination.md)
 - `[2026-10-15]` [Linux Io Inspection Iotop](notes/2026-10-15_0104-linux-io-inspection-iotop.md)
 - `[2026-10-14]` [Docker Multistage Builds](notes/2026-10-14_1955-docker-multistage-builds.md)
-- `[2026-10-14]` [Js Abortcontroller Cleanup](notes/2026-10-14_1629-js-abortcontroller-cleanup.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
