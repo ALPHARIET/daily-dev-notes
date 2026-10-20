@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-20]` [Python Slots Optimization](notes/2026-10-20_1948-python-slots-optimization.md)
 - `[2026-10-20]` [Css Has Selector Patterns](notes/2026-10-20_1624-css-has-selector-patterns.md)
 - `[2026-10-20]` [Ts Discriminated Unions](notes/2026-10-20_1323-ts-discriminated-unions.md)
 - `[2026-10-20]` [Linux Ss Lsof Network Debug](notes/2026-10-20_0008-linux-ss-lsof-network-debug.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-10-19]` [Python Functools Caching](notes/2026-10-19_0139-python-functools-caching.md)
 - `[2026-10-18]` [Python Contextlib Patterns](notes/2026-10-18_1906-python-contextlib-patterns.md)
 - `[2026-10-18]` [Api Idempotency Keys](notes/2026-10-18_0131-api-idempotency-keys.md)
-- `[2026-10-17]` [Js Abortcontroller Cleanup](notes/2026-10-17_2054-js-abortcontroller-cleanup.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
