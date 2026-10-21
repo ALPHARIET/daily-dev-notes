@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-22]` [Js Event Loop Microtasks](notes/2026-10-22_0108-js-event-loop-microtasks.md)
 - `[2026-10-21]` [Python Contextlib Patterns](notes/2026-10-21_2000-python-contextlib-patterns.md)
 - `[2026-10-21]` [Postgres Composite Indexes](notes/2026-10-21_1620-postgres-composite-indexes.md)
 - `[2026-10-21]` [Redis Cache Stampede Mutex](notes/2026-10-21_1324-redis-cache-stampede-mutex.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-10-20]` [Ts Discriminated Unions](notes/2026-10-20_1323-ts-discriminated-unions.md)
 - `[2026-10-20]` [Linux Ss Lsof Network Debug](notes/2026-10-20_0008-linux-ss-lsof-network-debug.md)
 - `[2026-10-19]` [Redis Cache Stampede Mutex](notes/2026-10-19_2145-redis-cache-stampede-mutex.md)
-- `[2026-10-19]` [Python Asyncio Taskgroup](notes/2026-10-19_1651-python-asyncio-taskgroup.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
