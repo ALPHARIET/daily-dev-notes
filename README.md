@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-23]` [Docker Layer Caching](notes/2026-10-23_1619-docker-layer-caching.md)
 - `[2026-10-23]` [Js Event Loop Microtasks](notes/2026-10-23_1322-js-event-loop-microtasks.md)
 - `[2026-10-23]` [Python Asyncio Taskgroup](notes/2026-10-23_0103-python-asyncio-taskgroup.md)
 - `[2026-10-22]` [Docker Multistage Builds](notes/2026-10-22_2002-docker-multistage-builds.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-10-21]` [Postgres Composite Indexes](notes/2026-10-21_1620-postgres-composite-indexes.md)
 - `[2026-10-21]` [Redis Cache Stampede Mutex](notes/2026-10-21_1324-redis-cache-stampede-mutex.md)
 - `[2026-10-21]` [Arch Outbox Pattern](notes/2026-10-21_0101-arch-outbox-pattern.md)
-- `[2026-10-20]` [Python Slots Optimization](notes/2026-10-20_1948-python-slots-optimization.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
