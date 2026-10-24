@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-24]` [Ts Branded Nominal Types](notes/2026-10-24_1317-ts-branded-nominal-types.md)
 - `[2026-10-24]` [Redis Cache Stampede Mutex](notes/2026-10-24_0054-redis-cache-stampede-mutex.md)
 - `[2026-10-23]` [Js Event Loop Microtasks](notes/2026-10-23_1941-js-event-loop-microtasks.md)
 - `[2026-10-23]` [Docker Layer Caching](notes/2026-10-23_1619-docker-layer-caching.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-10-22]` [Css Has Selector Patterns](notes/2026-10-22_1623-css-has-selector-patterns.md)
 - `[2026-10-22]` [Js Event Loop Microtasks](notes/2026-10-22_0108-js-event-loop-microtasks.md)
 - `[2026-10-21]` [Python Contextlib Patterns](notes/2026-10-21_2000-python-contextlib-patterns.md)
-- `[2026-10-21]` [Postgres Composite Indexes](notes/2026-10-21_1620-postgres-composite-indexes.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
