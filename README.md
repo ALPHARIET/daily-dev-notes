@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-25]` [Ts Branded Nominal Types](notes/2026-10-25_1336-ts-branded-nominal-types.md)
 - `[2026-10-25]` [Linux Ss Lsof Network Debug](notes/2026-10-25_0148-linux-ss-lsof-network-debug.md)
 - `[2026-10-24]` [Linux Ss Lsof Network Debug](notes/2026-10-24_1904-linux-ss-lsof-network-debug.md)
 - `[2026-10-24]` [Ts Branded Nominal Types](notes/2026-10-24_1317-ts-branded-nominal-types.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-10-23]` [Js Event Loop Microtasks](notes/2026-10-23_1322-js-event-loop-microtasks.md)
 - `[2026-10-23]` [Python Asyncio Taskgroup](notes/2026-10-23_0103-python-asyncio-taskgroup.md)
 - `[2026-10-22]` [Docker Multistage Builds](notes/2026-10-22_2002-docker-multistage-builds.md)
-- `[2026-10-22]` [Css Has Selector Patterns](notes/2026-10-22_1623-css-has-selector-patterns.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
