@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-26]` [Redis Cache Stampede Mutex](notes/2026-10-26_2123-redis-cache-stampede-mutex.md)
 - `[2026-10-26]` [Js Event Loop Microtasks](notes/2026-10-26_1704-js-event-loop-microtasks.md)
 - `[2026-10-26]` [Linux Ss Lsof Network Debug](notes/2026-10-26_1347-linux-ss-lsof-network-debug.md)
 - `[2026-10-26]` [Docker Multistage Builds](notes/2026-10-26_0006-docker-multistage-builds.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-10-24]` [Linux Ss Lsof Network Debug](notes/2026-10-24_1904-linux-ss-lsof-network-debug.md)
 - `[2026-10-24]` [Ts Branded Nominal Types](notes/2026-10-24_1317-ts-branded-nominal-types.md)
 - `[2026-10-24]` [Redis Cache Stampede Mutex](notes/2026-10-24_0054-redis-cache-stampede-mutex.md)
-- `[2026-10-23]` [Js Event Loop Microtasks](notes/2026-10-23_1941-js-event-loop-microtasks.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
