@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-28]` [Postgres Composite Indexes](notes/2026-10-28_0146-postgres-composite-indexes.md)
 - `[2026-10-27]` [Ts Discriminated Unions](notes/2026-10-27_2022-ts-discriminated-unions.md)
 - `[2026-10-27]` [Python Asyncio Taskgroup](notes/2026-10-27_1647-python-asyncio-taskgroup.md)
 - `[2026-10-27]` [Docker Layer Caching](notes/2026-10-27_1340-docker-layer-caching.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-10-26]` [Linux Ss Lsof Network Debug](notes/2026-10-26_1347-linux-ss-lsof-network-debug.md)
 - `[2026-10-26]` [Docker Multistage Builds](notes/2026-10-26_0006-docker-multistage-builds.md)
 - `[2026-10-25]` [Api Idempotency Keys](notes/2026-10-25_1607-api-idempotency-keys.md)
-- `[2026-10-25]` [Ts Branded Nominal Types](notes/2026-10-25_1336-ts-branded-nominal-types.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
