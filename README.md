@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-28]` [Api Idempotency Keys](notes/2026-10-28_1412-api-idempotency-keys.md)
 - `[2026-10-28]` [Postgres Composite Indexes](notes/2026-10-28_0146-postgres-composite-indexes.md)
 - `[2026-10-27]` [Ts Discriminated Unions](notes/2026-10-27_2022-ts-discriminated-unions.md)
 - `[2026-10-27]` [Python Asyncio Taskgroup](notes/2026-10-27_1647-python-asyncio-taskgroup.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-10-26]` [Js Event Loop Microtasks](notes/2026-10-26_1704-js-event-loop-microtasks.md)
 - `[2026-10-26]` [Linux Ss Lsof Network Debug](notes/2026-10-26_1347-linux-ss-lsof-network-debug.md)
 - `[2026-10-26]` [Docker Multistage Builds](notes/2026-10-26_0006-docker-multistage-builds.md)
-- `[2026-10-25]` [Api Idempotency Keys](notes/2026-10-25_1607-api-idempotency-keys.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
