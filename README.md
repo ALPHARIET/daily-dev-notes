@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-29]` [Python Contextlib Patterns](notes/2026-10-29_0155-python-contextlib-patterns.md)
 - `[2026-10-28]` [Ts Satisfies Operator](notes/2026-10-28_2107-ts-satisfies-operator.md)
 - `[2026-10-28]` [Docker Multistage Builds](notes/2026-10-28_1733-docker-multistage-builds.md)
 - `[2026-10-28]` [Api Idempotency Keys](notes/2026-10-28_1412-api-idempotency-keys.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-10-27]` [Docker Layer Caching](notes/2026-10-27_1340-docker-layer-caching.md)
 - `[2026-10-27]` [Docker Multistage Builds](notes/2026-10-27_0225-docker-multistage-builds.md)
 - `[2026-10-26]` [Redis Cache Stampede Mutex](notes/2026-10-26_2123-redis-cache-stampede-mutex.md)
-- `[2026-10-26]` [Js Event Loop Microtasks](notes/2026-10-26_1704-js-event-loop-microtasks.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
