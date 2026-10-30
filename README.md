@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-30]` [Redis Cache Stampede Mutex](notes/2026-10-30_1437-redis-cache-stampede-mutex.md)
 - `[2026-10-30]` [Arch Outbox Pattern](notes/2026-10-30_0003-arch-outbox-pattern.md)
 - `[2026-10-29]` [Postgres Composite Indexes](notes/2026-10-29_1752-postgres-composite-indexes.md)
 - `[2026-10-29]` [Ts Satisfies Operator](notes/2026-10-29_1433-ts-satisfies-operator.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-10-28]` [Api Idempotency Keys](notes/2026-10-28_1412-api-idempotency-keys.md)
 - `[2026-10-28]` [Postgres Composite Indexes](notes/2026-10-28_0146-postgres-composite-indexes.md)
 - `[2026-10-27]` [Ts Discriminated Unions](notes/2026-10-27_2022-ts-discriminated-unions.md)
-- `[2026-10-27]` [Python Asyncio Taskgroup](notes/2026-10-27_1647-python-asyncio-taskgroup.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
