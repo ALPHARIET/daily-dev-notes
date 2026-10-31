@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-10-31]` [Python Generators Memory](notes/2026-10-31_2043-python-generators-memory.md)
 - `[2026-10-31]` [Python Generators Memory](notes/2026-10-31_1722-python-generators-memory.md)
 - `[2026-10-31]` [Css Has Selector Patterns](notes/2026-10-31_1423-css-has-selector-patterns.md)
 - `[2026-10-31]` [Postgres Composite Indexes](notes/2026-10-31_0141-postgres-composite-indexes.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-10-30]` [Arch Outbox Pattern](notes/2026-10-30_0003-arch-outbox-pattern.md)
 - `[2026-10-29]` [Postgres Composite Indexes](notes/2026-10-29_1752-postgres-composite-indexes.md)
 - `[2026-10-29]` [Ts Satisfies Operator](notes/2026-10-29_1433-ts-satisfies-operator.md)
-- `[2026-10-29]` [Python Contextlib Patterns](notes/2026-10-29_0155-python-contextlib-patterns.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
