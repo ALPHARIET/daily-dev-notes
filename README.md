@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-11-02]` [Python Functools Caching](notes/2026-11-02_1920-python-functools-caching.md)
 - `[2026-11-02]` [Ts Discriminated Unions](notes/2026-11-02_1502-ts-discriminated-unions.md)
 - `[2026-11-02]` [Python Slots Optimization](notes/2026-11-02_0128-python-slots-optimization.md)
 - `[2026-11-01]` [Algo Sliding Window Pattern](notes/2026-11-01_2121-algo-sliding-window-pattern.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-10-31]` [Python Generators Memory](notes/2026-10-31_1722-python-generators-memory.md)
 - `[2026-10-31]` [Css Has Selector Patterns](notes/2026-10-31_1423-css-has-selector-patterns.md)
 - `[2026-10-31]` [Postgres Composite Indexes](notes/2026-10-31_0141-postgres-composite-indexes.md)
-- `[2026-10-30]` [Python Slots Optimization](notes/2026-10-30_2119-python-slots-optimization.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
