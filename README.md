@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-11-04]` [Python Asyncio Taskgroup](notes/2026-11-04_1453-python-asyncio-taskgroup.md)
 - `[2026-11-04]` [Docker Multistage Builds](notes/2026-11-04_0100-docker-multistage-builds.md)
 - `[2026-11-03]` [Git Worktrees Workflow](notes/2026-11-03_1853-git-worktrees-workflow.md)
 - `[2026-11-03]` [Js Event Loop Microtasks](notes/2026-11-03_1524-js-event-loop-microtasks.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-11-02]` [Python Slots Optimization](notes/2026-11-02_0128-python-slots-optimization.md)
 - `[2026-11-01]` [Algo Sliding Window Pattern](notes/2026-11-01_2121-algo-sliding-window-pattern.md)
 - `[2026-11-01]` [Python Contextlib Patterns](notes/2026-11-01_1814-python-contextlib-patterns.md)
-- `[2026-11-01]` [Git Worktrees Workflow](notes/2026-11-01_0049-git-worktrees-workflow.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
