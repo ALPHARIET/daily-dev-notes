@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-11-06]` [Linux Ss Lsof Network Debug](notes/2026-11-06_0115-linux-ss-lsof-network-debug.md)
 - `[2026-11-05]` [Css Subgrid Card Layouts](notes/2026-11-05_1917-css-subgrid-card-layouts.md)
 - `[2026-11-05]` [Css Has Selector Patterns](notes/2026-11-05_1519-css-has-selector-patterns.md)
 - `[2026-11-05]` [Arch Outbox Pattern](notes/2026-11-05_0112-arch-outbox-pattern.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-11-03]` [Git Worktrees Workflow](notes/2026-11-03_1853-git-worktrees-workflow.md)
 - `[2026-11-03]` [Js Event Loop Microtasks](notes/2026-11-03_1524-js-event-loop-microtasks.md)
 - `[2026-11-03]` [Js Event Loop Microtasks](notes/2026-11-03_0014-js-event-loop-microtasks.md)
-- `[2026-11-02]` [Python Functools Caching](notes/2026-11-02_1920-python-functools-caching.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
