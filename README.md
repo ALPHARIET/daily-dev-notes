@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-11-08]` [Postgres Composite Indexes](notes/2026-11-08_0106-postgres-composite-indexes.md)
 - `[2026-11-07]` [Algo Sliding Window Pattern](notes/2026-11-07_2109-algo-sliding-window-pattern.md)
 - `[2026-11-07]` [Js Event Loop Microtasks](notes/2026-11-07_1801-js-event-loop-microtasks.md)
 - `[2026-11-07]` [Security Constant Time Comparison](notes/2026-11-07_1438-security-constant-time-comparison.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-11-06]` [Linux Ss Lsof Network Debug](notes/2026-11-06_0115-linux-ss-lsof-network-debug.md)
 - `[2026-11-05]` [Css Subgrid Card Layouts](notes/2026-11-05_1917-css-subgrid-card-layouts.md)
 - `[2026-11-05]` [Css Has Selector Patterns](notes/2026-11-05_1519-css-has-selector-patterns.md)
-- `[2026-11-05]` [Arch Outbox Pattern](notes/2026-11-05_0112-arch-outbox-pattern.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
