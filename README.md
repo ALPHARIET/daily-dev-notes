@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-11-07]` [Js Event Loop Microtasks](notes/2026-11-07_1801-js-event-loop-microtasks.md)
 - `[2026-11-07]` [Security Constant Time Comparison](notes/2026-11-07_1438-security-constant-time-comparison.md)
 - `[2026-11-07]` [Python Slots Optimization](notes/2026-11-07_0039-python-slots-optimization.md)
 - `[2026-11-06]` [Python Contextlib Patterns](notes/2026-11-06_1904-python-contextlib-patterns.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-11-05]` [Css Has Selector Patterns](notes/2026-11-05_1519-css-has-selector-patterns.md)
 - `[2026-11-05]` [Arch Outbox Pattern](notes/2026-11-05_0112-arch-outbox-pattern.md)
 - `[2026-11-04]` [Postgres Composite Indexes](notes/2026-11-04_1904-postgres-composite-indexes.md)
-- `[2026-11-04]` [Python Asyncio Taskgroup](notes/2026-11-04_1453-python-asyncio-taskgroup.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
