@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-11-10]` [Docker Multistage Builds](notes/2026-11-10_0039-docker-multistage-builds.md)
 - `[2026-11-09]` [Css Has Selector Patterns](notes/2026-11-09_1949-css-has-selector-patterns.md)
 - `[2026-11-09]` [Git Interactive Rebase](notes/2026-11-09_1531-git-interactive-rebase.md)
 - `[2026-11-09]` [Ts Discriminated Unions](notes/2026-11-09_0124-ts-discriminated-unions.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-11-07]` [Algo Sliding Window Pattern](notes/2026-11-07_2109-algo-sliding-window-pattern.md)
 - `[2026-11-07]` [Js Event Loop Microtasks](notes/2026-11-07_1801-js-event-loop-microtasks.md)
 - `[2026-11-07]` [Security Constant Time Comparison](notes/2026-11-07_1438-security-constant-time-comparison.md)
-- `[2026-11-07]` [Python Slots Optimization](notes/2026-11-07_0039-python-slots-optimization.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
