@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-11-11]` [Linux Io Inspection Iotop](notes/2026-11-11_1509-linux-io-inspection-iotop.md)
 - `[2026-11-11]` [Python Functools Caching](notes/2026-11-11_0112-python-functools-caching.md)
 - `[2026-11-10]` [Js Abortcontroller Cleanup](notes/2026-11-10_1935-js-abortcontroller-cleanup.md)
 - `[2026-11-10]` [Redis Cache Stampede Mutex](notes/2026-11-10_1544-redis-cache-stampede-mutex.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-11-09]` [Ts Discriminated Unions](notes/2026-11-09_0124-ts-discriminated-unions.md)
 - `[2026-11-08]` [Arch Outbox Pattern](notes/2026-11-08_2122-arch-outbox-pattern.md)
 - `[2026-11-08]` [Api Cursor Pagination](notes/2026-11-08_1815-api-cursor-pagination.md)
-- `[2026-11-08]` [Postgres Composite Indexes](notes/2026-11-08_0106-postgres-composite-indexes.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
