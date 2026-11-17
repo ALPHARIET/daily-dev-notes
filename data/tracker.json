@@ -1,26 +1,19 @@
 {
-  "current_date": "2026-11-17",
+  "current_date": "2026-11-18",
   "daily_target": 5,
   "selected_slots": [
+    0,
     1,
     2,
     3,
-    4,
     5
   ],
   "completed_slots": [
-    5,
-    3,
-    4
+    5
   ],
-  "commits_today": 3,
-  "total_commits": 131,
+  "commits_today": 1,
+  "total_commits": 132,
   "history": [
-    {
-      "date": "2026-10-18",
-      "commits": 2,
-      "target": 3
-    },
     {
       "date": "2026-10-19",
       "commits": 4,
@@ -165,7 +158,12 @@
       "date": "2026-11-16",
       "commits": 2,
       "target": 3
+    },
+    {
+      "date": "2026-11-17",
+      "commits": 3,
+      "target": 5
     }
   ],
-  "last_commit_time": "2026-11-17T20:19:25.715060+07:00"
+  "last_commit_time": "2026-11-18T02:21:17.756086+07:00"
 }

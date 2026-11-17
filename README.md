@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-11-18]` [Js Abortcontroller Cleanup](notes/2026-11-18_0221-js-abortcontroller-cleanup.md)
 - `[2026-11-17]` [Git Worktrees Workflow](notes/2026-11-17_2019-git-worktrees-workflow.md)
 - `[2026-11-17]` [Linux Io Inspection Iotop](notes/2026-11-17_1638-linux-io-inspection-iotop.md)
 - `[2026-11-17]` [Api Idempotency Keys](notes/2026-11-17_0010-api-idempotency-keys.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-11-15]` [Python Asyncio Taskgroup](notes/2026-11-15_1516-python-asyncio-taskgroup.md)
 - `[2026-11-15]` [Python Functools Caching](notes/2026-11-15_0146-python-functools-caching.md)
 - `[2026-11-14]` [Ts Discriminated Unions](notes/2026-11-14_2118-ts-discriminated-unions.md)
-- `[2026-11-14]` [Algo Sliding Window Pattern](notes/2026-11-14_1826-algo-sliding-window-pattern.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
