@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-11-18]` [Css Subgrid Card Layouts](notes/2026-11-18_1959-css-subgrid-card-layouts.md)
 - `[2026-11-18]` [Git Interactive Rebase](notes/2026-11-18_1557-git-interactive-rebase.md)
 - `[2026-11-18]` [Js Abortcontroller Cleanup](notes/2026-11-18_0221-js-abortcontroller-cleanup.md)
 - `[2026-11-17]` [Git Worktrees Workflow](notes/2026-11-17_2019-git-worktrees-workflow.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-11-16]` [Python Asyncio Taskgroup](notes/2026-11-16_0023-python-asyncio-taskgroup.md)
 - `[2026-11-15]` [Ts Branded Nominal Types](notes/2026-11-15_1855-ts-branded-nominal-types.md)
 - `[2026-11-15]` [Python Asyncio Taskgroup](notes/2026-11-15_1516-python-asyncio-taskgroup.md)
-- `[2026-11-15]` [Python Functools Caching](notes/2026-11-15_0146-python-functools-caching.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
