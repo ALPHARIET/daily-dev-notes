@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-11-19]` [Ts Discriminated Unions](notes/2026-11-19_1958-ts-discriminated-unions.md)
 - `[2026-11-19]` [Python Contextlib Patterns](notes/2026-11-19_1623-python-contextlib-patterns.md)
 - `[2026-11-19]` [Ts Satisfies Operator](notes/2026-11-19_0201-ts-satisfies-operator.md)
 - `[2026-11-18]` [Css Subgrid Card Layouts](notes/2026-11-18_1959-css-subgrid-card-layouts.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-11-17]` [Linux Io Inspection Iotop](notes/2026-11-17_1638-linux-io-inspection-iotop.md)
 - `[2026-11-17]` [Api Idempotency Keys](notes/2026-11-17_0010-api-idempotency-keys.md)
 - `[2026-11-16]` [Api Idempotency Keys](notes/2026-11-16_1941-api-idempotency-keys.md)
-- `[2026-11-16]` [Python Asyncio Taskgroup](notes/2026-11-16_0023-python-asyncio-taskgroup.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
