@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-11-22]` [Api Cursor Pagination](notes/2026-11-22_0045-api-cursor-pagination.md)
 - `[2026-11-21]` [Ts Satisfies Operator](notes/2026-11-21_1935-ts-satisfies-operator.md)
 - `[2026-11-21]` [Arch Outbox Pattern](notes/2026-11-21_1539-arch-outbox-pattern.md)
 - `[2026-11-21]` [Docker Multistage Builds](notes/2026-11-21_0147-docker-multistage-builds.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-11-19]` [Ts Discriminated Unions](notes/2026-11-19_1958-ts-discriminated-unions.md)
 - `[2026-11-19]` [Python Contextlib Patterns](notes/2026-11-19_1623-python-contextlib-patterns.md)
 - `[2026-11-19]` [Ts Satisfies Operator](notes/2026-11-19_0201-ts-satisfies-operator.md)
-- `[2026-11-18]` [Css Subgrid Card Layouts](notes/2026-11-18_1959-css-subgrid-card-layouts.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
