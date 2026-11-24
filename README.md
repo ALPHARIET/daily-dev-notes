@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-11-24]` [Python Generators Memory](notes/2026-11-24_2150-python-generators-memory.md)
 - `[2026-11-24]` [Python Functools Caching](notes/2026-11-24_1828-python-functools-caching.md)
 - `[2026-11-24]` [Linux Io Inspection Iotop](notes/2026-11-24_0801-linux-io-inspection-iotop.md)
 - `[2026-11-24]` [Api Idempotency Keys](notes/2026-11-24_0220-api-idempotency-keys.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-11-22]` [Python Functools Caching](notes/2026-11-22_1932-python-functools-caching.md)
 - `[2026-11-22]` [Postgres Composite Indexes](notes/2026-11-22_1537-postgres-composite-indexes.md)
 - `[2026-11-22]` [Api Cursor Pagination](notes/2026-11-22_0045-api-cursor-pagination.md)
-- `[2026-11-21]` [Ts Satisfies Operator](notes/2026-11-21_1935-ts-satisfies-operator.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
