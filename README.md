@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-11-27]` [Linux Ss Lsof Network Debug](notes/2026-11-27_0736-linux-ss-lsof-network-debug.md)
 - `[2026-11-27]` [Linux Io Inspection Iotop](notes/2026-11-27_0047-linux-io-inspection-iotop.md)
 - `[2026-11-26]` [Python Asyncio Taskgroup](notes/2026-11-26_2051-python-asyncio-taskgroup.md)
 - `[2026-11-26]` [Docker Layer Caching](notes/2026-11-26_1655-docker-layer-caching.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-11-25]` [Git Worktrees Workflow](notes/2026-11-25_0157-git-worktrees-workflow.md)
 - `[2026-11-24]` [Python Generators Memory](notes/2026-11-24_2150-python-generators-memory.md)
 - `[2026-11-24]` [Python Functools Caching](notes/2026-11-24_1828-python-functools-caching.md)
-- `[2026-11-24]` [Linux Io Inspection Iotop](notes/2026-11-24_0801-linux-io-inspection-iotop.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
