@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-11-28]` [Security Constant Time Comparison](notes/2026-11-28_0031-security-constant-time-comparison.md)
 - `[2026-11-27]` [Ts Discriminated Unions](notes/2026-11-27_2049-ts-discriminated-unions.md)
 - `[2026-11-27]` [Api Cursor Pagination](notes/2026-11-27_1659-api-cursor-pagination.md)
 - `[2026-11-27]` [Linux Ss Lsof Network Debug](notes/2026-11-27_0736-linux-ss-lsof-network-debug.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-11-26]` [Python Slots Optimization](notes/2026-11-26_0101-python-slots-optimization.md)
 - `[2026-11-25]` [Python Slots Optimization](notes/2026-11-25_2116-python-slots-optimization.md)
 - `[2026-11-25]` [Ts Satisfies Operator](notes/2026-11-25_1715-ts-satisfies-operator.md)
-- `[2026-11-25]` [Git Worktrees Workflow](notes/2026-11-25_0157-git-worktrees-workflow.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
