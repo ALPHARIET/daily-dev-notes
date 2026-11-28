@@ -4,6 +4,7 @@ A curated collection of daily software engineering notes, code snippets, web dev
 
 ## 📌 Recent Notes
 <!-- RECENT_NOTES_START -->
+- `[2026-11-28]` [Security Constant Time Comparison](notes/2026-11-28_1616-security-constant-time-comparison.md)
 - `[2026-11-28]` [Postgres Composite Indexes](notes/2026-11-28_0703-postgres-composite-indexes.md)
 - `[2026-11-28]` [Security Constant Time Comparison](notes/2026-11-28_0031-security-constant-time-comparison.md)
 - `[2026-11-27]` [Ts Discriminated Unions](notes/2026-11-27_2049-ts-discriminated-unions.md)
@@ -13,7 +14,6 @@ A curated collection of daily software engineering notes, code snippets, web dev
 - `[2026-11-26]` [Python Asyncio Taskgroup](notes/2026-11-26_2051-python-asyncio-taskgroup.md)
 - `[2026-11-26]` [Docker Layer Caching](notes/2026-11-26_1655-docker-layer-caching.md)
 - `[2026-11-26]` [Python Slots Optimization](notes/2026-11-26_0101-python-slots-optimization.md)
-- `[2026-11-25]` [Python Slots Optimization](notes/2026-11-25_2116-python-slots-optimization.md)
 <!-- RECENT_NOTES_END -->
 
 ## 🛠️ Topics Covered
